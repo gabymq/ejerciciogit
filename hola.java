@@ -1,6 +1,4 @@
-public static class UnaClaseNueva {
-
-
+{  
+ int x;
+    
 }
-
-minutos y segundos que estamos con nuestros errores
