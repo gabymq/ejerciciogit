@@ -1,4 +1,2 @@
-{  
- int x;
-    
-}
+
+public class
